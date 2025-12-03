@@ -3,8 +3,8 @@
 // Do NOT commit the real file to source control. Keep it outside the webroot if possible.
 
 return [
-    // 'env' => 'sandbox' or 'live'
-    'env' => 'sandbox',
+    // 'env' => 'live'
+    'env' => 'live',
 
     // REST API credentials (create an app in PayPal Developer Dashboard)
     'client_id' => 'ARRrOcdVX_N7KNHLuO_DLTWvM_QWN2imRTaGRyhlEJSdJI2j0_0xf2cqDRSxJZOT3b9g3Iv8o_I5LCko',
